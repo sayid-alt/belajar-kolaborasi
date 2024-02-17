@@ -4,5 +4,6 @@ Commit 1<br>
 Commit 2<br>
 Commit 3
 
-I've been looking for **pizza** for several hours. And i was waiting too long
+I've been looking for **pizza** for several hours. <br>
+And i was waiting too long
 
